@@ -1,1 +1,1 @@
-Please open the file "markowitz-portfolio-theory.ipynb" for full details. If it doesn't open, please try reloading it.
+Please read the file "Project_Report.pdf" for full details of the project. 
